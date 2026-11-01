@@ -37,7 +37,7 @@ I'm an AI and data professional focused on building practical, production-orient
 <tr>
 <td align="center" width="25%"><h2>10k+</h2><sub>Monthly queries supported by hybrid agentic RAG</sub></td>
 <td align="center" width="25%"><h2>−40%</h2><sub>Complaint-resolution time using fine-tuned LLMs</sub></td>
-<td align="center" width="25%"><h2>99.9%</h2><sub>service uptime</sub></td>
+<td align="center" width="25%"><h2>99.9%</h2><sub>Service uptime for AI systems through robust dev-ops practices</sub></td>
 <td align="center" width="25%"><h2>−26.9%</h2><sub>Video warping error in Video Style Transfer</sub></td>
 </tr>
 <tr>
