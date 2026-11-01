@@ -35,15 +35,15 @@ I'm an AI and data professional focused on building practical, production-orient
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><h2>10k+</h2><sub>monthly queries supported by hybrid RAG</sub></td>
-<td align="center" width="25%"><h2>−40%</h2><sub>complaint-resolution time</sub></td>
+<td align="center" width="25%"><h2>10k+</h2><sub>monthly queries supported by hybrid agentic RAG</sub></td>
+<td align="center" width="25%"><h2>−40%</h2><sub>complaint-resolution time using fine-tuned LLMs</sub></td>
 <td align="center" width="25%"><h2>99.9%</h2><sub>service uptime</sub></td>
-<td align="center" width="25%"><h2>−26.9%</h2><sub>video warping error</sub></td>
+<td align="center" width="25%"><h2>−26.9%</h2><sub>video warping error in Video Style Transfer</sub></td>
 </tr>
 <tr>
-<td align="center"><h2>+50%</h2><sub>contact-centre QA efficiency</sub></td>
+<td align="center"><h2>+50%</h2><sub>contact-centre QA efficiency using AI powered systems</sub></td>
 <td align="center"><h2>+42%</h2><sub>OptiML customer satisfaction</sub></td>
-<td align="center"><h2>−18%</h2><sub>simulated port idle time</sub></td>
+<td align="center"><h2>−18%</h2><sub>Simulated port idle time in Port Digital twins simulation</sub></td>
 <td align="center"><h2>500+</h2><sub>CRM employee users supported</sub></td>
 </tr>
 </table>
