@@ -306,13 +306,6 @@ The sections below include the **full skills list** from my master profile, grou
 - **Publication:** *Video Neural Style Transfer with Dense Optical Flow* — University of Bath, 2 October 2026 (dissertation submitted).
 - **Learning & certifications:** Harvard CS50 AI and Neural Networks (Jan 2022), Harvard CS50, CS50 Web Development, The Odin Project, and Udemy AI and Neural Networks. AWS Certified Cloud Practitioner (2021–2024; expired).
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakDixit7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-
-</div>
 
 ## 🤝 Let's connect
 
