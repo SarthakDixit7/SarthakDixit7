@@ -311,9 +311,6 @@ The sections below include the **full skills list** from my master profile, grou
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakDixit7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=SarthakDixit7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakDixit7&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="98%" />
 
 </div>
 
